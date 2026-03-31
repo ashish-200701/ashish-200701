@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**ashish-200701/ashish-200701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Name:** Ashish Samantra
+* **Branch:** Computer Science Engineering
+* **Year:** 1st Year
 
-Here are some ideas to get you started:
+### About Me
+I am a student developer focused on building technical solutions and exploring the intricacies of network architecture and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning Goal
+I aim to become an expert in programming and gain a comprehensive understanding of various VPN protocols and secure networking systems.
+
+### Current Interests
+* **Advanced Coding:** Refining my proficiency in high-level languages and software design patterns.
+* **Network Security:** Exploring how protocols like OpenVPN, WireGuard, and IPsec ensure data privacy and integrity.
+* **System Optimization:** Building efficient tools that can handle real-world user traffic.
